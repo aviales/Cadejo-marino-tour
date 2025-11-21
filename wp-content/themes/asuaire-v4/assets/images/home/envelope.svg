@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.844" height="20.675" viewBox="0 0 25.844 20.675">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <path id="bx-envelope_1_" d="M25.26 4H4.584A2.587 2.587 0 0 0 2 6.584v15.507a2.587 2.587 0 0 0 2.584 2.584H25.26a2.587 2.587 0 0 0 2.584-2.584V6.584A2.587 2.587 0 0 0 25.26 4zm0 2.584v.66l-10.338 8.042-10.338-8.04v-.662zM4.584 22.091V10.518l9.544 7.424a1.291 1.291 0 0 0 1.587 0l9.544-7.424v11.573z" class="cls-1" data-name="bx-envelope (1)" transform="translate(-2 -4)"/>
+</svg>

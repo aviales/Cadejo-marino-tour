@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.191" height="87.94" viewBox="0 0 75.191 87.94">
+    <defs>
+        <style>
+            .cls-1{fill:#f1a115}.cls-2{fill:#44bfb6}.cls-3{fill:#b6c1ce}.cls-4{fill:#d3a06c}
+        </style>
+    </defs>
+    <g id="etiqueta-del-precio" transform="rotate(30 75.282 -137.034)">
+        <path id="Path_326" d="M139.9 104L120 125.147v38.563h39.807v-38.563zm0 17.415a4.976 4.976 0 1 1 4.976-4.976 4.976 4.976 0 0 1-4.976 4.976z" class="cls-1" data-name="Path 326" transform="translate(-6.756 -87.829)"/>
+        <path id="Rectangle_146" d="M0 0h14.928v9.952H0z" class="cls-2" data-name="Rectangle 146" transform="translate(133.147 60.954)"/>
+        <path id="Rectangle_147" d="M0 0h4.976v9.952H0z" class="cls-3" data-name="Rectangle 147" transform="translate(138.123 60.954)"/>
+        <path id="Rectangle_148" d="M0 0h39.807v3.732H0z" class="cls-4" data-name="Rectangle 148" transform="translate(113.244 72.15)"/>
+        <path id="Path_327" d="M139.585 21.2l2.946-4.419A10.792 10.792 0 0 0 133.55 0h-.806a10.792 10.792 0 0 0-8.98 16.779l2.946 4.421L112 36.826v40.3h42.295v-40.3zm-13.751-5.8a8.3 8.3 0 0 1 6.91-12.911h.806a8.3 8.3 0 0 1 6.91 12.911l-2.626 3.938-4.687-4.981-4.687 4.981zm25.973 59.239h-37.319V37.811l18.659-19.826 3.272 3.476-.931 1.394a6.223 6.223 0 1 0 2.071 1.38l.61-.913 13.638 14.49zm-14.928-46.028a3.732 3.732 0 1 1-7.464 0 3.692 3.692 0 0 1 .754-2.225l1.943 2.915a1.244 1.244 0 0 0 2.07 0l1.943-2.915a3.685 3.685 0 0 1 .754 2.225zM132.238 25a3.354 3.354 0 0 1 1.819 0l-.909 1.363z" data-name="Path 327"/>
+        <path id="Path_328" d="M212.976 259.9h2.488v-2.488h1.244a3.736 3.736 0 0 0 3.732-3.732v-1.24a3.736 3.736 0 0 0-3.732-3.732h-4.976a1.246 1.246 0 0 1-1.244-1.244v-1.244a1.246 1.246 0 0 1 1.244-1.244h4.976a1.246 1.246 0 0 1 1.244 1.244h2.488a3.736 3.736 0 0 0-3.732-3.732h-1.244V240h-2.488v2.488h-1.244A3.736 3.736 0 0 0 208 246.22v1.244a3.736 3.736 0 0 0 3.732 3.732h4.976a1.246 1.246 0 0 1 1.244 1.244v1.244a1.246 1.246 0 0 1-1.244 1.244h-4.976a1.246 1.246 0 0 1-1.244-1.244H208a3.736 3.736 0 0 0 3.732 3.732h1.244z" data-name="Path 328" transform="translate(-81.072 -202.681)"/>
+        <path id="Path_329" d="M240 396.44h17.415V384H240zm7.464-2.488v-7.464h2.488v7.464zm7.464 0h-2.488v-7.464h2.488zm-12.44-7.464h2.488v7.464h-2.488z" data-name="Path 329" transform="translate(-108.097 -324.29)"/>
+        <path id="Rectangle_149" d="M0 0h12.44v2.488H0z" data-name="Rectangle 149" transform="translate(116.976 62.198)"/>
+        <path id="Rectangle_150" d="M0 0h12.44v2.488H0z" data-name="Rectangle 150" transform="translate(116.976 67.174)"/>
+        <path id="Rectangle_151" d="M0 0h2.488v2.488H0z" data-name="Rectangle 151" transform="translate(141.855 46.027)"/>
+        <path id="Rectangle_152" d="M0 0h2.488v2.488H0z" data-name="Rectangle 152" transform="translate(121.952 46.027)"/>
+    </g>
+</svg>

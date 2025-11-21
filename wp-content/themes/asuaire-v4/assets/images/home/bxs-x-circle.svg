@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.205" height="18.205" viewBox="0 0 18.205 18.205">
+    <defs>
+        <style>
+            .cls-1{fill:#c8c8c8}
+        </style>
+    </defs>
+    <path id="bxs-x-circle" d="M11.1 2a9.1 9.1 0 1 0 9.1 9.1A9.113 9.113 0 0 0 11.1 2zm3.829 11.645l-1.287 1.287L11.1 12.39l-2.54 2.542-1.287-1.287L9.815 11.1 7.273 8.56 8.56 7.273l2.54 2.542 2.542-2.542 1.29 1.287-2.542 2.54z" class="cls-1" transform="translate(-2 -2)"/>
+</svg>

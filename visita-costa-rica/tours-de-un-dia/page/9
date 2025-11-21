@@ -1,0 +1,1328 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#374d65"/>
+    <link rel="icon" href="https://asuaire.com/wp-content/themes/asuaire-v4/logo.png" type="image/x-png" />
+    <title>Asuaire - ¡Viaje a Costa Rica!</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <link rel="stylesheet" type="text/css" href="https://asuaire.com/wp-content/themes/asuaire-v4/assets/css/vendor.css">
+    <link rel="stylesheet" type="text/css" href="https://asuaire.com/wp-content/themes/asuaire-v4/assets/css/owl.carousel.min.css">    
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css">  
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css">
+    
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://asuaire.com/wp-content/themes/asuaire-v4/assets/css/custom.css?v=6">   
+    <link rel="stylesheet" type="text/css" href="https://asuaire.com/wp-content/themes/asuaire-v4/assets/css/homepage.css?v=7">
+    <link rel="stylesheet" type="text/css" href="https://asuaire.com/wp-content/themes/asuaire-v4/assets/css/homepage3.css?v=4">
+    <link rel="stylesheet" type="text/css" href="https://asuaire.com/wp-content/themes/asuaire-v4/assets/css/style.css?v=">  
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Encuentra las mejores ofertas de Tours en Costa Rica, agencia de Tours en Costa Rica con experiencia en una gran diversidad de aventuras en el paraíso tropical" />
+	<link rel="canonical" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Ofertas de tours en Costa Rica | Asuaire Travel" />
+	<meta property="og:description" content="Encuentra las mejores ofertas de Tours en Costa Rica, agencia de Tours en Costa Rica con experiencia en una gran diversidad de aventuras en el paraíso tropical" />
+	<meta property="og:url" content="https://asuaire.com/visita-costa-rica/tours-de-un-dia" />
+	<meta property="og:site_name" content="Asuaire" />
+	<meta property="article:publisher" content="https://www.facebook.com/asuaire" />
+	<meta property="article:modified_time" content="2019-11-25T05:31:19+00:00" />
+	<meta property="og:image" content="https://asuaire.com/wp-content/uploads/2019/11/tour-bg.jpg" />
+	<meta property="og:image:width" content="3840" />
+	<meta property="og:image:height" content="1000" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://asuaire.com/visita-costa-rica/tours-de-un-dia","url":"https://asuaire.com/visita-costa-rica/tours-de-un-dia","name":"Ofertas de tours en Costa Rica | Asuaire Travel","isPartOf":{"@id":"https://asuaire.com/#website"},"primaryImageOfPage":{"@id":"https://asuaire.com/visita-costa-rica/tours-de-un-dia#primaryimage"},"image":{"@id":"https://asuaire.com/visita-costa-rica/tours-de-un-dia#primaryimage"},"thumbnailUrl":"https://asuaire.com/wp-content/uploads/2019/11/tour-bg.jpg","datePublished":"2018-01-04T23:25:20+00:00","dateModified":"2019-11-25T05:31:19+00:00","description":"Encuentra las mejores ofertas de Tours en Costa Rica, agencia de Tours en Costa Rica con experiencia en una gran diversidad de aventuras en el paraíso tropical","breadcrumb":{"@id":"https://asuaire.com/visita-costa-rica/tours-de-un-dia#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://asuaire.com/visita-costa-rica/tours-de-un-dia"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://asuaire.com/visita-costa-rica/tours-de-un-dia#primaryimage","url":"https://asuaire.com/wp-content/uploads/2019/11/tour-bg.jpg","contentUrl":"https://asuaire.com/wp-content/uploads/2019/11/tour-bg.jpg","width":3840,"height":1000,"caption":"tour bg"},{"@type":"BreadcrumbList","@id":"https://asuaire.com/visita-costa-rica/tours-de-un-dia#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://asuaire.com/"},{"@type":"ListItem","position":2,"name":"¡Viaje a Costa Rica!"}]},{"@type":"WebSite","@id":"https://asuaire.com/#website","url":"https://asuaire.com/","name":"Asuaire","description":"Agencia de viaje centroamericana","publisher":{"@id":"https://asuaire.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://asuaire.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https://asuaire.com/#organization","name":"Asuaire Travel Agency","url":"https://asuaire.com/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://asuaire.com/#/schema/logo/image/","url":"https://asuaire.com/wp-content/uploads/2018/01/144x144-asuaire-logo.png","contentUrl":"https://asuaire.com/wp-content/uploads/2018/01/144x144-asuaire-logo.png","width":144,"height":144,"caption":"Asuaire Travel Agency"},"image":{"@id":"https://asuaire.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/asuaire"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="amphtml" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia/amp" /><meta name="generator" content="AMP for WP 1.1.7.1"/><link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/asuaire.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=ac72c47cc858a52a1a0547c9575d42a1"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link id="wp-block-library" rel="preload" href="https://asuaire.com/wp-includes/css/dist/block-library/style.min.css?ver=ac72c47cc858a52a1a0547c9575d42a1" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'" type="text/css"><noscript><link id="wp-block-library" rel="stylesheet" href="https://asuaire.com/wp-includes/css/dist/block-library/style.min.css?ver=ac72c47cc858a52a1a0547c9575d42a1" media="all" type="text/css"></noscript>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link id="sib-front-css" rel="preload" href="https://asuaire.com/wp-content/plugins/mailin/css/mailin-front.css?ver=ac72c47cc858a52a1a0547c9575d42a1" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'" type="text/css"><noscript><link id="sib-front-css" rel="stylesheet" href="https://asuaire.com/wp-content/plugins/mailin/css/mailin-front.css?ver=ac72c47cc858a52a1a0547c9575d42a1" media="all" type="text/css"></noscript>
+
+<!-- Fragmento de código de la etiqueta de Google (gtag.js) añadida por Site Kit -->
+<!-- Fragmento de código de Google Analytics añadido por Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-WF3GHD56" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["asuaire.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-WF3GHD56");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://asuaire.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://asuaire.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="sib-front-js-js-extra">
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https:\/\/asuaire.com\/wp-admin\/admin-ajax.php","ajax_nonce":"21d10eb821","flag_url":"https:\/\/asuaire.com\/wp-content\/plugins\/mailin\/img\/flags\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://asuaire.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1757439016" id="sib-front-js-js"></script>
+<link rel="https://api.w.org/" href="https://asuaire.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://asuaire.com/wp-json/wp/v2/pages/1294" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://asuaire.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://asuaire.com/?p=1294' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://asuaire.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasuaire.com%2Fvisita-costa-rica%2Ftours-de-un-dia" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://asuaire.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasuaire.com%2Fvisita-costa-rica%2Ftours-de-un-dia&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.8.4 stt:1,2;" />
+<meta name="generator" content="Site Kit by Google 1.159.0" />			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.6-->
+			<script class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<script id="speed-up-optimize-css-delivery" type="text/javascript">/* loadCSS. [c]2018 Filament Group, Inc. MIT License */ (function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))</script><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript> 
+    <!-- Google Tag Manager-->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KM46BHS');</script>
+    <!-- End Google Tag Manager -->
+  </head> 
+<body>
+<!-- Google Tag Manager (noscript)-->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KM46BHS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <!-- End Google Tag Manager (noscript) -->
+<div class="category-tour cat_flag" data-post-type="costarica" 
+                                      data-category="tours" data-category-type="tour">
+  
+  
+                                      
+  <div class="wrap-menu">
+      <div data-bg="https://asuaire.com/wp-content/uploads/2019/11/tour-bg.jpg" class="head-content rocket-lazyload" style="">
+          <!-- <div class="head-content">
+  <div class="g1280"> -->
+<div class="blue-menu">
+	<div class="menu-content">
+
+			<nav class="navDesktop navbar navbar-expand-lg navbar-light">
+						<div class="row col-sm-12 nopadding nomargin">
+									<div class="col-sm-2 nopadding nomargin" style="padding:15px;">
+											<div class="logo">
+												<a href="https://asuaire.com">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Asuaire" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png" alt="Logo Asuaire"></noscript>
+												</a>
+											</div>
+									</div>
+									<div class="col-sm-10 nopadding nomargin">
+												<div class="row col-sm-12 nopadding nomargin" style="postion:relative;">
+														<!-- <div class="col-sm-3 nopadding"> -->
+																<div class="content-dropdwons">
+
+																	<div class="lang header-dropdown" style="margin-right:20px;">
+																
+																	<div class="dropdown"> 
+																		<button class="btn" type="button" data-toggle="dropdown" role="button" 
+																				aria-label="true" aria-expanded="false"> 
+																		<span class="lang-choose">
+																			ESP</span> 
+																		<i class="fas fa-angle-down"></i>
+																		</button> 
+																		<div class="dropdown-menu currency-iso"> 
+																		<p>Elige su idioma:</p>
+																		<div class='item'><a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" class="active-01">Español<i class='fa fa-angle-right c-arrow' aria-hidden='true'></i></a></div><div class='item'><a href="https://asuaire.com/en/visit-costa-rica/tours" class="active-00">English<i class='fa fa-angle-right c-arrow' aria-hidden='true'></i></a></div> 
+																		</div> 
+																	</div>
+
+																	</div>
+
+																	<div class="money header-dropdown">
+																
+																		<div class="dropdown"> 
+																			<button class="btn" type="button" data-toggle="dropdown" role="button" 
+																							aria-label="true" aria-expanded="false"> 
+																				<span class="currency-choose">
+																					usd																				</span> 
+																				<i class="fas fa-angle-down"></i>
+																			</button> 
+																			<div class="dropdown-menu currency-iso"> 
+																				<p>Elige su moneda:</p> 
+																				<div class="item"><a data-currency="usd" class="active-01">USD<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="eur" class="">EUR<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="gbp" class="">GBP<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="chf" class="">CHF<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"> 
+																			</div> 
+																		</div>
+
+																	</div>
+
+																</div>
+														<!-- </div> -->
+														<!-- <div class="col-sm-9 nopadding"> -->
+																			<div class="redsocial" style="">
+																					<a href="//www.facebook.com/asuaire" target="_blank" rel="nofollow noopener noreferrer" class="social-media-links"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"  alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/fb.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/fb.svg"  alt=""></noscript></a>
+<a href="//www.instagram.com/asuairetravel/" target="_blank" rel="nofollow noopener noreferrer" class="social-media-links" ><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"  alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/insta.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/insta.svg"  alt=""></noscript></a>
+<a href="//www.youtube.com/channel/UCV8U_qDj5ksvzkarR5GANRA" target="_blank" rel="nofollow noopener noreferrer" class="social-media-links" ><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"  alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/yt.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/yt.svg"  alt=""></noscript></a>
+<a class="social-media-links"><span><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/bx-support.svg" ><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/bx-support.svg" ></noscript></span><span> (506) 4010 6070</span></a>
+<a href="mailto:info@asuaire.com" class="social-media-links" style="margin-right:0;"><span><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/envelope.svg" ><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/envelope.svg" ></noscript></span><span> EMAIL</span></a>
+
+
+
+																			</div>
+														<!-- </div> -->
+												</div>
+
+												<div class="row col-sm-12 nopadding nomargin" style="margin-top:3px;postion:relative;">
+														<!-- <div class="col-sm-9  nopadding nomargin"> -->
+																	<div class="collapse navbar-collapse " id="navbarNav">
+
+																	<ul class="nav navbar-nav align-items-end hidden-md-down" style="">
+																		<li class="dropdown mega-dropdown"><a href="#" class="parent haschild"data-toggle="dropdown">¿Qué ofrecemos?</a><ul class="dropdown-menu megamenu"><li class="col-sm-3 nopadding submenu"><ul><li data-id="1301"><a href="https://asuaire.com/visita-costa-rica/paquetes" class="destination">Paquetes de viaje</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li><li data-id="1294"><a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" class="popular">Tours de 1 día</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li><li data-id="1276"><a href="https://asuaire.com/visita-costa-rica/hoteles" class="popular">Hoteles</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li><li data-id="7924"><a href="https://asuaire.com/promociones" class="">Promociones</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li></ul></li><li class="col-sm-9 menu-preview"><div class="row 1301 justify-content-between"><div class="preview-title">Centro america</div><div class=" destination"><div class="item"><div data-bg="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/costarica.jpeg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/visita-costa-rica/paquetes">costa-rica</a></div><h3>costa rica</h3></div></div></div><div class="2 row 1294 hide justify-content-between"><div class="preview-title">Más populares</div><div class="most-popular"><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2023/07/slide1.jpeg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/tours/experiencia-en-el-parque-nacional-rincon-de-la-vieja">Experiencia en el Parque Nacional Rincón de la Vieja &#8211; DIA COMPLETO</a></div><h3>Experiencia en el Parque Nacional Rincón de la Vieja &#8211; DIA COMPLETO</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2023/07/san-gerardo-de-dota-costa-rica-featured.jpeg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/tours/tour-quetzal-caminata-guiada-medio-dia">Tour Quetzal ( Caminata Guiada ) &#8211; MEDIO DIA</a></div><h3>Tour Quetzal ( Caminata Guiada ) &#8211; MEDIO DIA</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2023/07/chocolate-tour-2.jpeg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/tours/tour-de-cafe-cana-de-azucar-y-chocolate-medio-dia">Tour de Café, Caña de Azúcar y Chocolate &#8211; medio dia</a></div><h3>Tour de Café, Caña de Azúcar y Chocolate &#8211; medio dia</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2023/07/ftntram-102-9897.jpeg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/tours/el-clasico-sky-tram-sky-trek-y-sky-walk-dia-completo-3">El clásico: Sky Tram, Sky Trek y Sky Walk &#8211; DIA COMPLETO</a></div><h3>El clásico: Sky Tram, Sky Trek y Sky Walk &#8211; DIA COMPLETO</h3></div></div></div><div class="3 row 1276 hide justify-content-between"><div class="preview-title">Más populares</div><div class="most-popular"><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2018/02/Arenal-Nayara-2.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/hoteles/superior/arenal-nayara">Arenal Nayara</a></div><h3>Arenal Nayara</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2018/02/Courtyard-by-Marriott-San-Jose-Escazu-1.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/hoteles/courtyard-by-marriott-san-jose-escazu">Courtyard by Marriott San José Escazú</a></div><h3>Courtyard by Marriott San José Escazú</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2018/02/Pacuare-Lodge-1.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/hoteles/lujo_2/pacuare-lodge">Pacuare Lodge</a></div><h3>Pacuare Lodge</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2018/01/El-Establo-5.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/hoteles/el-establo">El Establo</a></div><h3>El Establo</h3></div></div></div><div class="4 row 7924 hide justify-content-between"><div class="nav-text"><p></p></div></div></li></ul></li><li class="dropdown mega-dropdown"><a href="#" class="parent haschild"data-toggle="dropdown">Destinos</a><ul class="dropdown-menu megamenu"><li class="col-sm-3 nopadding submenu"><ul><li data-id="1301"><a href="https://asuaire.com/visita-costa-rica/paquetes" class="popular">Costa Rica</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li></ul></li><li class="col-sm-9 menu-preview"><div class="6 row 1301 hide justify-content-between"><div class="preview-title">Más populares</div><div class="most-popular"><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2023/07/tortuga-island-tour.jpeg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/paquetes/las-dos-caras-de-costa-rica-caribe-pacifico-sur">Las dos caras de Costa Rica &#8211; Caribe &#038; Pacífico Sur</a></div><h3>Las dos caras de Costa Rica &#8211; Caribe &#038; Pacífico Sur</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2019/06/full-calm-tortuguero-canal.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/paquetes/san-jose-tortuguero-y-4x4-midsize">De la Selva al Volante: Paquete Tortuguero + Coche de Alquiler</a></div><h3>De la Selva al Volante: Paquete Tortuguero + Coche de Alquiler</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2025/08/4.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/paquetes/costa-rica-en-11-dias">Costa Rica 11 días de Aventura y Ecoturismo</a></div><h3>Costa Rica 11 días de Aventura y Ecoturismo</h3></div><div class="item"><div data-bg="https://asuaire.com/wp-content/uploads/2019/06/Corcovado.jpg" class="image rocket-lazyload" style=""><a href="https://asuaire.com/costarica/paquetes/naturaleza-pura-con-corcovado">Corcovado en Costa Rica, Naturaleza Pura 13 Días</a></div><h3>Corcovado en Costa Rica, Naturaleza Pura 13 Días</h3></div></div></div></li></ul></li><li class="dropdown mega-dropdown"><a href="#" class="parent haschild"data-toggle="dropdown">Conócenos</a><ul class="dropdown-menu megamenu"><li class="col-sm-3 nopadding submenu"><ul><li data-id="2613"><a href="https://asuaire.com/sobre-asuaire" class="">Sobre Nosotros</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li><li data-id="3071"><a href="https://asuaire.com/sostenibilidad" class="">¡Somos Sostenibles!</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li><li data-id="7725"><a href="https://asuaire.com/opiniones" class="">Opiniones</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li><li data-id="5613"><a href="https://asuaire.com/contactanos" class="">Contáctanos</a><i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></li></ul></li><li class="col-sm-9 menu-preview"><div class="8 row 2613 hide justify-content-between"><div class="nav-text"><p>25 años viajando contigo
+Nuestro viaje comenzó en 1998. Desde entonces hemos tenido muy claro nuestro rumbo: tú. Nos hemos especializado en ti, en lo que sueñas en cada viaje, en lo que buscas cuando quieres descubrir nuevos destinos.
+Que estés en nuestro centro nos permite seguir evolucionando para acercarnos cada día a la excelencia. Así podemos ofrecerte las experiencias turísticas que deseas. Y con la libertad de saber que eres tú quien va a construir ese viaje a tu medida. Nosotros simplemente lo diseñaremos para ti. Con la experiencia acumulada de estos 25 años. Con el cariño que miles de clientes depositan en nosotros. Con la profesionalidad que nos otorga conocer al ...</p></div></div><div class="9 row 3071 hide justify-content-between"><div class="nav-text"><p>¿QUÉ ES ESTO DE SER SOSTENIBLE?
+La sostenibilidad en Asuaire forma parte integral de nuestra estrategia de negocio y de nuestras operaciones día a día. Como parte de nuestra filosofía de trabajo, el concepto de sostenibilidad siempre ha ido de la mano con la empresa; estamos conscientes y actuamos sobre la premisa de aprovechar nuestros recursos de una forma inteligente y efectiva, minimizando el desperdicio y la huella en el planeta.
+¿POR QUÉ LO HACEMOS?
+Estamos comprometidos con el desarrollo sostenible como un factor presente en todas nuestras actividades. Además de ser una empresa verde hay una responsabilidad mayor que va más allá del cumplimiento de regulaciones ambientales, ...</p></div></div><div class="10 row 7725 hide justify-content-between"><div class="nav-text"><p>En Asuaire creemos en escuchar a nuestros clientes y es por eso que recopilamos comentaros a traves de feefo, un proveedor de calificaciones y evaluaciones global independiente utilizado por las marcas más confiables del mundo. Eso es lo que nuestros clientes tienen que decir sobre </p></div></div><div class="11 row 5613 hide justify-content-between"><div class="nav-text"><p>Contáctanos y con gusto estaremos a tu </p></div></div></li></ul></li><li class="dropdown mega-dropdown"><a href="https://asuaire.com/blog" class="parent ">Blog</a></li>																	</ul>
+
+																	</div>
+
+														<!-- </div>
+														<div class="col-sm-3  nopadding nomargin"> -->
+															<a href="https://asuaire.com/disena-tu-viaje" class="designMyTrip">Diseña tu viaje</a>
+														<!-- </div> -->
+												</div>
+									</div>
+
+						</div>
+			</nav>
+
+			<div class="content-mobile-menu">
+							
+							<div class="menub-item">
+								
+								<div class="logo">
+										<a href="https://asuaire.com">
+											<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Asuaire" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png" alt="Logo Asuaire"></noscript>
+										</a>
+									</div>
+
+							</div>
+							
+							<div class="menub-item">
+								
+								<!-- <div class="wrap-drop">
+									
+											<div class="lang header-dropdown">
+										
+												<div class="dropdown"> 
+													<button class="btn" type="button" data-toggle="dropdown" role="button" 
+																	aria-label="true" aria-expanded="false"> 
+														<span class="lang-choose">es</span> 
+														<i class="fas fa-angle-down"></i>
+													</button> 
+													<div class="dropdown-menu currency-iso"> 
+														<p>Elige su idioma:</p>
+														<div class='item'><a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" class="active-01">Español<i class='fa fa-angle-right c-arrow' aria-hidden='true'></i></a></div><div class='item'><a href="https://asuaire.com/en/visit-costa-rica/tours" class="active-00">English<i class='fa fa-angle-right c-arrow' aria-hidden='true'></i></a></div> 
+													</div> 
+												</div>
+
+											</div>
+
+											<div class="money header-dropdown">
+										
+												<div class="dropdown"> 
+													<button class="btn" type="button" data-toggle="dropdown" role="button" 
+																	aria-label="true" aria-expanded="false"> 
+														<span class="currency-choose">
+															<i>US &dollar;</i>
+														</span> 
+														<i class="fas fa-angle-down"></i>
+													</button> 
+													<div class="dropdown-menu currency-iso"> 
+														<p>Elige su moneda:</p> 
+														<div class="item"><a data-currency="usd" class="active-01">USD<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="eur" class="">EUR<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="gbp" class="">GBP<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="chf" class="">CHF<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"> 
+													</div> 
+												</div>
+
+											</div>
+
+									</div>
+								
+								</div> -->
+							<div class="menub-item" style="text-align:right;">
+								<div>
+									<a href="" class="designMyTrip">Diseñar mi viaje</a>
+
+									<a  class="showmenu"><i class="fas fa-bars"></i></a>
+							
+								</div>
+							</div>
+
+									<div class="menumobile">
+
+										<div class="m_mobile_head">
+											<div class="logo">
+											<a href="https://asuaire.com">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Logo Asuaire" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png" alt="Logo Asuaire"></noscript>
+											</a>
+										</div>
+									
+									<div class="menub-item">
+										
+										<div class="wrap-drop">
+											
+													<div class="lang header-dropdown">
+												
+														<div class="dropdown"> 
+															<button class="btn" type="button" data-toggle="dropdown" role="button" 
+																			aria-label="true" aria-expanded="false"> 
+																<span class="lang-choose">es</span> 
+																<i class="fas fa-angle-down"></i>
+															</button> 
+															<div class="dropdown-menu currency-iso"> 
+																<p>Elige su idioma:</p>
+																<div class='item'><a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" class="active-01">Español<i class='fa fa-angle-right c-arrow' aria-hidden='true'></i></a></div><div class='item'><a href="https://asuaire.com/en/visit-costa-rica/tours" class="active-00">English<i class='fa fa-angle-right c-arrow' aria-hidden='true'></i></a></div> 
+															</div> 
+														</div>
+
+													</div>
+
+													<div class="money header-dropdown">
+												
+														<div class="dropdown"> 
+															<button class="btn" type="button" data-toggle="dropdown" role="button" 
+																			aria-label="true" aria-expanded="false"> 
+																<span class="currency-choose">
+																	<i>US &dollar;</i>
+																</span> 
+																<i class="fas fa-angle-down"></i>
+															</button> 
+															<div class="dropdown-menu currency-iso"> 
+																<p>Elige su moneda:</p> 
+																<div class="item"><a data-currency="usd" class="active-01">USD<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="eur" class="">EUR<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="gbp" class="">GBP<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"><div class="item"><a data-currency="chf" class="">CHF<i class="fas fa-angle-right c-arrow" aria-hidden="true"></i></a></div clas"item"> 
+															</div> 
+														</div>
+
+													</div>
+
+											</div>
+										
+										</div>
+
+										<div class="closemenu">
+												<a href="javascript:void(0)"><i class="fas fa-times"></i></a>
+											</div>
+										</div>
+										
+										<div class="p-0 m-options">
+												<div class="m-search">
+															<form action="https://asuaire.com/">
+																<div class="input-group add-on">
+																	<div class="input-group-btn">
+																		<button class="btn btn-secondary" type="submit" role="button" aria-label="true"><i class="fa fa-search" aria-hidden="true"></i></button>
+																	</div>
+																	<input type="text" class="form-control " placeholder="Buscar" name="s">
+																</div>
+															</form>
+												</div>
+											</div> 
+											
+								<div id="menu-mobile" role="tablist" aria-multiselectable="true" class="hidden-lg-up">
+									<div class="card"><div class="card-header" role="tab" id="heading313"><h5 class="mb-0 has-submenu"><a class="collapsed menu_313" data-toggle="collapse" data-parent="#menu-mobile" href="#menu_313"><i class="fa fa-angle-right" aria-hidden="true"></i>¿Qué ofrecemos?</a></h5></div><div id="menu_313" class="collapse" role="tabpanel"><div class="card-block"><div class="item"><a href="https://asuaire.com/visita-costa-rica/paquetes">Paquetes de viaje <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div><div class="item"><a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia">Tours de 1 día <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div><div class="item"><a href="https://asuaire.com/visita-costa-rica/hoteles">Hoteles <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div><div class="item"><a href="https://asuaire.com/promociones">Promociones <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div></div></div></div><div class="card"><div class="card-header" role="tab" id="heading318"><h5 class="mb-0 has-submenu"><a class="collapsed menu_318" data-toggle="collapse" data-parent="#menu-mobile" href="#menu_318"><i class="fa fa-angle-right" aria-hidden="true"></i>Destinos</a></h5></div><div id="menu_318" class="collapse" role="tabpanel"><div class="card-block"><div class="item"><a href="https://asuaire.com/visita-costa-rica/paquetes">Costa Rica <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div></div></div></div><div class="card"><div class="card-header" role="tab" id="heading323"><h5 class="mb-0 has-submenu"><a class="collapsed menu_323" data-toggle="collapse" data-parent="#menu-mobile" href="#menu_323"><i class="fa fa-angle-right" aria-hidden="true"></i>Conócenos</a></h5></div><div id="menu_323" class="collapse" role="tabpanel"><div class="card-block"><div class="item"><a href="https://asuaire.com/sobre-asuaire">Sobre Nosotros <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div><div class="item"><a href="https://asuaire.com/sostenibilidad">¡Somos Sostenibles! <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div><div class="item"><a href="https://asuaire.com/opiniones">Opiniones <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div><div class="item"><a href="https://asuaire.com/contactanos">Contáctanos <i class="fa fa-angle-right c-arrow" aria-hidden="true"></i></a></div></div></div></div><div class="card"><div class="card-header" role="tab" id="heading3771"><h5 class="mb-0 has-submenu"><a href="https://asuaire.com/blog"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></h5></div></div>								</div>
+
+								<div class="content-social">
+												<div class="social justify-content-center">
+													<a href="//www.facebook.com/asuaire" target="_blank" rel="nofollow noopener noreferrer" ><i class="fa fa-facebook-f"></i></a>
+<a href="//www.instagram.com/asuairetravel/" target="_blank" rel="nofollow noopener noreferrer" ><i class="fab fa-instagram"></i></a>
+<a href="//www.youtube.com/channel/UCV8U_qDj5ksvzkarR5GANRA" target="_blank" rel="nofollow noopener noreferrer" ><i class="fab fa-youtube"></i></a>
+<a href="mailto:info@asuaire.com"><i class="fa fa-envelope"></i></a>
+												</div>  
+											</div>
+
+					</div>
+
+						</div>
+
+	</div>
+</div>
+</div>
+
+  
+<!--   </div>
+</div> -->          <div class="submenu-bar">
+
+        <div class="wrapper2" >
+        <a href="https://asuaire.com" class="backButton"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/arrow-left.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/arrow-left.svg" alt=""></noscript></a>
+
+
+        <a href="https://asuaire.com/visita-costa-rica/paquetes" class="submenu-bar-link">
+        
+                <div class="circleImg" style="background-color: #46dcd1;display:inline-block">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/bx-briefcase-alt.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/bx-briefcase-alt.svg" alt=""></noscript>
+                </div>
+                <div class="setHeading" style="display:inline-block">Paquetes</div>
+        </a>
+
+
+
+        <a href="https://asuaire.com/visita-costa-rica/transportes/alquiler-de-coches" class="submenu-bar-link">
+        
+                <div class="circleImg" style="background-color: #ffac4d;display:inline-block">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/car.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/car.svg" alt=""></noscript>
+                </div>
+                <div class="setHeading" style="display:inline-block">Alquiler</div>
+        </a>
+
+
+
+        <a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" class="submenu-bar-link">
+        
+                <div class="circleImg" style="background-color: #5cb0e0;display:inline-block">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/bx-landscape.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/bx-landscape.svg" alt=""></noscript>
+                </div>
+                <div class="setHeading" style="display:inline-block">Tour</div>
+        </a>
+
+
+
+        <a href="https://asuaire.com/visita-costa-rica/hoteles" class="submenu-bar-link">
+        
+                <div class="circleImg" style="background-color: #ffe926;display:inline-block">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/building.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/building.svg" alt=""></noscript>
+                </div>
+                <div class="setHeading" style="display:inline-block">Hoteles</div>
+        </a>
+
+
+        <a href="https://asuaire.com/vuelos" class="submenu-bar-link">
+        
+                <div class="circleImg" style="background-color: #8900FB;display:inline-block">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/plane-departure.svg"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/home/plane-departure.svg" alt=""></noscript>
+                </div>
+                <div class="setHeading" style="display:inline-block">Vuelos</div>
+        </a>
+
+        </div>
+
+</div>      </div>
+  </div>
+
+  <div class="save-zone">
+    <div class="breadcrumb"> 
+        <a href="https://asuaire.com">Inicio</a> 
+        <span>/</span>  
+        <a href="https://asuaire.com/visita-costa-rica"> Costa Rica</a>
+        <span>/</span> 
+        Excursiones de un día    </div>
+    <div class="cat-content">
+        <h1>Excursiones de un día</h1>
+        <div class="country-title">Costa Rica</div>
+        <div class="select-country">
+          <div class="dropdown w-100 222">
+              <a class="btn dropdown-toggle" role="button" id="drop-menu" data-toggle="dropdown">
+                  Cambiar Destino                  <i class="fas fa-angle-down"></i> 
+              </a>
+              <div class="dropdown-menu" aria-labelledby="drop-menu">
+                                            <a class="" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" class="dropdown-item">Costa Rica</a>
+                                          </div>
+          </div>
+        </div>
+        <p>Encuentra las mejores ofertas de excursiones a Costa Rica, según la experiencia y el lugar que quieras visitar. 
+
+Elige el país al que te diriges y el tipo de tour que prefieres, manejamos las mejores ofertas de Tours en Costa Rica.
+
+ ¡Anímate y vive aventuras nuevas en un paraíso tropical! </p>
+    </div>
+
+    <div class="wp-content">
+        <div class="body">
+            
+            <div class="loading"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="img-fluid" alt="Loading Gif" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/loading.gif"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/loading.gif" class="img-fluid" alt="Loading Gif"></noscript></div>
+
+            <div class="search-tour">
+        
+    <div class="input-search form-group">
+        <input type="text" class="form-control" name="filterTours" data-post="costarica" placeholder="Buscar lugares, actividades o tipos de viaje">    
+        <button class="btn tourSearch" data-card="thin"><i class="fas fa-search"></i></button>
+    </div>
+
+    <!-- <div class="input-dropdown">
+
+      <div class="dropdown">
+
+          <a class="btn dropdown-toggle" role="button" id="drop-menu" data-toggle="dropdown">
+            Tipo de tour <i class="fas fa-angle-down"></i>
+          </a>
+
+          <div class="dropdown-menu" aria-labelledby="drop-menu">
+                      </div>
+
+      </div>
+
+      
+      <a href="javascript:void(0)" class="showFilter" data-toggle="modal" data-target="#wrapFilterTour">
+          <i class="fas fa-sliders-h"></i>
+          Filtrar      </a>
+
+    </div> -->
+    
+    <div class="results"></div> 
+
+</div>            
+            <div class="wp-title">
+                <h2>Tours de  Costa Rica</h2>
+            </div>
+                    
+            <div class="wrap-cards content-result wrap-1">
+                <div class="card-tour" data-price="50 " data-order="1">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/10/trapiche.jpg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/trapiche-y-tour-de-cafe">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Trapiche y tour de café</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 4 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>5</span>
+                    <!-- (31 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 50            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/trapiche-y-tour-de-cafe" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+<div class="card-tour" data-price="92 " data-order="2">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/05/bgASTA.jpg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/tour-chocolate-y-cascada-la-fortuna-2">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Tour chocolate y Cascada la Fortuna</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 4 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>5</span>
+                    <!-- (21 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 92            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/tour-chocolate-y-cascada-la-fortuna-2" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+<div class="card-tour" data-price="58 " data-order="3">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/10/Sloth-1.jpeg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/perezosos-y-aves">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Perezosos y Aves</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 1.5 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>5</span>
+                    <!-- (8 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 58            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/perezosos-y-aves" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+<div class="card-tour" data-price="60 " data-order="4">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/10/kayak.jpeg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/tour-de-kayak-en-el-lago-arenal">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Tour de Kayak en el Lago Arenal</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 4 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>5</span>
+                    <!-- (14 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 60            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/tour-de-kayak-en-el-lago-arenal" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+<div class="card-tour" data-price="95 " data-order="5">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/11/Venado_Cave__La_Fortuna.jpeg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/tour-por-las-cavernas-de-venado">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Tour por las Cavernas de Venado</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 4 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>4.5</span>
+                    <!-- (14 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 95            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/tour-por-las-cavernas-de-venado" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+<div class="card-tour" data-price="69 " data-order="6">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/11/coooking.jpeg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/clases-de-cocina-pura-vida">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Clases de cocina &#8216;pura vida&#8217;</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 2 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>4.5</span>
+                    <!-- (10 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 69            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/clases-de-cocina-pura-vida" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+<div class="card-tour" data-price="63 " data-order="7">
+    <div data-bg="https://asuaire.com/wp-content/uploads/2022/10/Sloth-1.jpeg" class="header lazy rocket-lazyload" style="">
+        <a href="https://asuaire.com/costarica/tours/aviarios-del-aribe-centro-de-rescate-de-perezosos">more</a>
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="curve frame" class="img-fluid curve" data-lazy-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png"><noscript><img src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/curve.png" alt="curve frame" class="img-fluid curve"></noscript>
+    </div>
+    <div class="content">
+        <div class="title">Aviarios del Caribe- Centro de rescate de perezosos</div>
+        <div class="wrap-info">
+            <div class="detail">
+                <div class="time"> 
+                    <i class="far fa-clock"></i> Duración <span> 5 horas</span>
+                </div>
+                <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <span>5</span>
+                    <!-- (21 Opiniones) -->
+                </div>
+            </div>
+            <div class="_price">
+                <span>Desde</span>
+                US &dollar; 63            </div>
+        </div>
+        <a href="https://asuaire.com/costarica/tours/aviarios-del-aribe-centro-de-rescate-de-perezosos" class="viewPost">Ver tour</a>
+    </div>    
+</div>
+            </div>
+            
+            <ul class="pagination justify-content-start"><li class="page-item"><a class="page-link" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia" aria-label="First Page">&laquo;</a></li><li class="page-item"><a class="page-link page-letter" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia/page/8" aria-label="Previous Page">&lsaquo;<span class="hidden-sm-down d-none d-md-block">Anterior</span></a></li><li class="page-item"><a class="page-link" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia/page/7"><span class="sr-only">Page </span>7</a></li><li class="page-item"><a class="page-link" href="https://asuaire.com/visita-costa-rica/tours-de-un-dia/page/8"><span class="sr-only">Page </span>8</a></li><li class="page-item active"><span class="page-link"><span class="sr-only">Current Page </span>9</span></li></ul>            
+        </div>
+        <div class="aside">
+            <div class="info">
+                <div class="head">
+                    <i class="fas fa-sliders-h"></i>
+                    <h4>Filtrar búsqueda</h4>
+                </div>
+                <div class="content sidebar-filter">
+                    <div class="modal fade" id="wrapFilterTour" tabindex="-1" role="dialog" aria-labelledby="wrapFilterTour" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="wrapFilterTour">Filtrar búsqueda</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+        <div class="modal-body">
+
+                <form class="frm-booking">
+                    
+                     
+                    
+                        <div class="item-filter">
+                        <h6>Categorías</h6>
+                                            
+                        </div>
+                    
+                    <div class="item-filter">
+                        <h6>Presupuesto por día</h6>
+                        <div id="slider-range"></div>
+                        <div class="slider-labels">
+                        <span id="slider-range-value1"></span>
+                        <span id="slider-range-value2"></span>
+                        </div>
+                        
+                        <input type="hidden" name="min-price" value="0">
+                        <input type="hidden" name="max-price" value="240">
+                        
+                    </div>
+
+                    <div class="item-filter">
+                        <h6>Duración</h6>
+                        <div id="slider-range-duration"></div>
+                        <div class="slider-labels">
+                        <span id="slider-duration-value1"></span>
+                        <span id="slider-duration-value2"></span>
+                        </div>
+                        
+                        <input type="hidden" name="min-duration" value="1">
+                        <input type="hidden" name="max-duration" value="12">
+                        
+                    </div>
+
+                    <div class="item-filter">
+  <h6>Ubicación</h6>  
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-sjo" name="location-filter[]" type="checkbox" value="san jose">
+      <label for="loc-sjo">San Jos&eacute;</label>
+  </div>
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-heredia" name="location-filter[]" type="checkbox" value="heredia">
+      <label for="loc-heredia">Heredia</label>
+  </div>
+
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-alajuela" name="location-filter[]" type="checkbox" value="alajuela">
+      <label for="loc-alajuela">Alajuela</label>
+  </div>
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-cartago" name="location-filter[]" type="checkbox" value="cartago">
+      <label for="loc-cartago">Cartago</label>
+  </div>
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-puntarenas" name="location-filter[]" type="checkbox" value="puntarenas">
+      <label for="loc-puntarenas">Puntarenas</label>
+  </div>
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-guana" name="location-filter[]" type="checkbox" value="guanacaste">
+      <label for="loc-guana">Guanacaste</label>
+  </div>
+  <div class="group-check">  
+    <input class="styled-checkbox" id="loc-limon" name="location-filter[]" type="checkbox" value="limon">
+      <label for="loc-limon">Lim&oacute;n</label>
+  </div>
+</div>            
+                    <input type="hidden" name="post_type" value="costarica">
+                    <input type="hidden" name="category" value="tours">
+                    <input type="hidden" name="cat_type" value="tour">
+                    <input type="hidden" name="search-input" value="">
+                    <input type="hidden" name="filter-type" value="2">
+
+                </form>
+
+        </div>
+    </div>
+  </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="certificates">
+    <div class="title">
+         <h2>Somos una agencia sostenible</h2>
+    </div>
+    <div class="wrap">
+        <div class="badges multiple-items">
+            
+
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/2Esencial.png" alt="Logo Somos esencial" class="img-fluid lazy" width="195">
+            </div>
+
+            <div class="item">
+                <a href="https://www.bcorporation.net/en-us/find-a-b-corp/company/asuaire-travel" target="_blank">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/EmpresaBCertificada.png" alt="Logo Empresa B" class="img-fluid lazy"></a>
+            </div>
+            
+
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/5CST.svg" alt="Logo CST" class="img-fluid lazy">
+            </div>
+            
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/4CarbonoNeutralidadv2.png" alt="Logo Carbono Neutralidad" class="img-fluid lazy" style="max-width: 254px">
+            </div>
+            
+
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/1Safetravel.svg" alt="Logo Safe Travel" class="img-fluid lazy">
+            </div>
+            <!-- <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/3Rainforest.png" alt="Logo RainForest" class="img-fluid lazy" width="240">
+            </div> -->
+            <!-- <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/6BanderaAzul.svg" alt="Logo Bandera Azul" class="img-fluid lazy">
+            </div> -->
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/7CodigoConducta.svg" alt="Logo Codigo Conducta" class="img-fluid lazy">
+            </div>
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/8TheCode.svg" alt="Logo The Code" class="img-fluid lazy" style="max-width: 280px">
+            </div>
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/9ONUMujeres.jpg" alt="Logo ONU Mujeres" class="img-fluid lazy">
+            </div>
+            <!-- <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/svg/10TravelLife.svg" alt="Logo Travel Life" class="img-fluid lazy">
+            </div> -->
+            <!-- 
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/badges/confianza-logo.png" alt="Logo Confianza Online" class="img-fluid lazy">
+            </div>
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/badges/raiforest-logo.png" alt="Logo - Rainforest" class="img-fluid lazy">
+            </div> -->
+            <!-- <div class="legend">Certificados</div> -->
+        </div>
+        <div class="payments" style="display: none;">
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/badges/americanexpress-logo.png" alt="Logo American Express" class="img-fluid lazy">
+            </div>
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/badges/mastercard-logo.png" alt="Logo Mastercard" class="img-fluid lazy">
+            </div>
+            <div class="item">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/badges/visa-logo.png" alt="Logo - Visa" class="img-fluid lazy">
+            </div>
+            <div class="legend">Pagos seguros</div>
+        </div>
+    </div>
+</div>
+<div class="signup lazy">
+  <div class="g980">
+    <h2>Regístrate para recibir nuestras ideas y ofertas de viaje!</h2>
+    <form class="form-suscribe">
+      <div class="form-signup">
+        <input type="email" name="sign_news" class="required" placeholder="Ingrese su correo">
+        <button type="button" class="btn submit action-button btnSuscribe">
+          <i class="fa fa-spinner fa-spin waiting" aria-hidden="true"></i>
+          Suscribirse        </button>
+      </div>
+      <div class="approval">
+        <div class="group-check">  
+            <input class="styled-checkbox required" id="newsletter" name="newsletter" type="checkbox" value="Si">
+            <label for="newsletter">Me gustaría recibir noticias de asuaire por email.</label>
+        </div>
+        <div class="thankSuscribe">Gracias por suscribirte!</div>
+      </div>
+    </form>
+  </div>  
+</div>
+   <footer>
+    <div class="footer-description">
+      <div class="g1280">
+        <div class="row m-0 mb-2">
+          <div class="col-lg-2 col-md-12 logo-footer">
+           <a href="/"> 
+            <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/newlogo.png" width="145" class="lazy" alt="Logo Asuaire">
+           </a> 
+          </div>
+          
+          <div class="col-lg-7 col-md-12 footer-nav"><div><h3>Qué ofrecemos?</h3><ul><li><a href="https://asuaire.com/visita-costa-rica/paquetes">Paquetes de viaje</a></li><li><a href="https://asuaire.com/visita-costa-rica/hoteles">Hoteles</a></li><li><a href="https://asuaire.com/visita-costa-rica/tours-de-un-dia">Excursiones de un día</a></li></ul></div><div><h3>Destinos</h3><ul><li><a href="https://asuaire.com/visita-costa-rica/paquetes">Costa Rica</a></li></ul></div><div><h3>Conócenos</h3><ul><li><a href="https://asuaire.com/sobre-asuaire">Sobre Asuaire</a></li><li><a href="https://asuaire.com/sostenibilidad">¡Somos Sostenibles!</a></li><li><a href="https://asuaire.com/blog">Blog</a></li><li><a href="https://asuaire.com/aviso-legal">Aviso legal</a></li><li><a href="https://asuaire.com/politica-de-privacidad">Política de privacidad</a></li><li><a href="https://asuaire.com/politica-de-cookies">Política de cookies</a></li></ul></div></div>
+          
+          <div class="col-lg-3 col-md-12 footer-contact">
+              <h3 class="hidden-md-down">Contáctanos</h3>
+              <!-- <div class="place">
+                <p>Nuestras oficinas funcionan 24 horas para dar asistencia durante el viaje</p>
+              </div> -->
+              <div class="phone">
+                  <p>Teléfono <span class="phone-h">(506) 4010 6070</span></p>
+              </div>
+              <div class="mail">
+                <p> 
+                  Correo:
+                  <a href="mailto:info@asuaire.com">info@asuaire.com</a>
+                </p>
+              </div>
+              <div class="street">
+                <p>San José, Costa Rica</p>
+              </div>
+              <div class="row social justify-content-start">
+                <a href="//www.facebook.com/asuaire" target="_blank" rel="nofollow noopener noreferrer" ><i class="fa fa-facebook-f"></i></a>
+<a href="//www.instagram.com/asuairetravel/" target="_blank" rel="nofollow noopener noreferrer" ><i class="fab fa-instagram"></i></a>
+<a href="//www.youtube.com/channel/UCV8U_qDj5ksvzkarR5GANRA" target="_blank" rel="nofollow noopener noreferrer" ><i class="fab fa-youtube"></i></a>
+<a href="mailto:info@asuaire.com"><i class="fa fa-envelope"></i></a>
+              </div>
+          </div>
+        </div>
+          <!-- <div class="row badges">
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/1_bandera.png" alt="Bandera Azul Ecologica" class="lazy" width="145">
+            </a>
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/2_sostenible.png" alt="Essential" class="lazy" width="55">
+            </a>
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/3_essential.png" alt="Essential Costa Rica" class="lazy" width="127">
+            </a>
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/4_carbono.png" alt="Carbono Neutral" class="lazy" width="160">
+            </a>
+         </div> -->
+      </div> 
+    </div> 
+
+    <div class="footer-legacy">
+      <div class="max-container">
+        <div class="custom-container">
+         <div class="row badges">
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/5_drv.png" alt="Drv Code" class="lazy" width="90">
+            </a>
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/6_norton.png" alt="Norton Certified" class="lazy" width="80">
+            </a>
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/footer/7_feefo.png" alt="Feefo Trusted Service" class="lazy" width="90">
+            </a>
+            <a href="">
+                <img data-src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/images/mexico-central-americas-leading-tour-operator-2022-winner-shield-white-96.png" alt="Leading tour operator" class="lazy" width="90">
+            </a>
+
+         </div>
+         <p>Asuaire 2025, Derechos Reservados</p>
+        </div>
+      </div>
+    </div>
+    <a href="https://api.whatsapp.com/send?phone=50683342978&text="
+class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+<style>
+.float{
+position:fixed;
+width:60px;
+height:60px;
+bottom:30px;
+right:40px;
+background-color:#25d366;
+color:#FFF;
+border-radius:50px;
+text-align:center;
+font-size:30px;
+box-shadow: 2px 2px 3px #999;
+z-index:100;
+}
+.my-float{
+margin-top:16px;
+}
+</style>
+  </footer>
+  
+  <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/asuaire-v4\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"11.3.6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.hs-scripts.com/5891828.js?integration=WordPress&amp;ver=11.3.6" id="leadin-script-loader-js-js"></script>
+<script>window.lazyLoadOptions = [{
+                elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }},{
+				elements_selector: ".rocket-lazyload",
+				data_src: "lazy-src",
+				data_srcset: "lazy-srcset",
+				data_sizes: "lazy-sizes",
+				class_loading: "lazyloading",
+				class_loaded: "lazyloaded",
+				threshold: 300,
+			}];
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (var i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                continue;
+                            }
+
+                            if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                continue;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async src="https://asuaire.com/wp-content/plugins/rocket-lazy-load/assets/js/16.1/lazyload.min.js"></script> 
+
+
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js" async></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script type="text/javascript" src="//stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/jquery-cookie.js" ></script>
+  <script type="text/javascript" src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/vendor.js" ></script> 
+  <script type="text/javascript" src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/all-vendor.js" ></script>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"></script>
+  <script type="text/javascript" src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/cleave.min.js"></script>
+  <script src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/intlTelInput.js"></script> 
+  <script type="text/javascript" src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/custom.js?v=55"></script>
+  <script type="text/javascript" src="https://asuaire.com/wp-content/themes/asuaire-v4/assets/js/owl.carousel.min.js"></script>
+  <script async src="https://www.jscache.com/wejs?wtype=excellent&amp;uniq=973&amp;locationId=13286294&amp;lang=es&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+  <script type="text/javascript">
+    (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+    vgo('setAccount', '651091435');
+    vgo('setTrackByDefault', true);
+
+    vgo('process');
+ </script>
+  <!-- <script>
+      var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?18342';
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = url;
+      var options = {
+    "enabled":true,
+    "chatButtonSetting":{
+        "backgroundColor":"#4dc247",
+        "ctaText":"chat",
+        "borderRadius":"15",
+        "marginLeft":"0",
+        "marginBottom":"50",
+        "marginRight":"50",
+        "position":"right"
+    },
+    "brandSetting":{
+        "brandName":"Asuaire Travel",
+        "brandSubTitle":"",
+        "brandImg":"https://asuaire.com/asuaire-logo.jpg",
+        "welcomeText":"Cuéntamos si hay algo en que podamos ayudarte :-)",
+        "messageText":"Hello, I have a question about {{page_link}}",
+        "backgroundColor":"#2a3c54",
+        "ctaText":"Iniciar",
+        "borderRadius":"25",
+        "autoShow":false,
+        "phoneNumber":"50663068208"
+    }
+  };
+      s.onload = function() {
+          CreateWhatsappChatWidget(options);
+      };
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+  </script> -->
+  <script type="text/javascript">
+
+  document.addEventListener("DOMContentLoaded", function() {
+        var lazyloadImages;    
+
+        if ("IntersectionObserver" in window) {
+          lazyloadImages = document.querySelectorAll(".lazy");
+          var imageObserver = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(function(entry) {
+              if (entry.isIntersecting) {
+                var image = entry.target;
+                image.src = image.dataset.src;
+                image.classList.remove("lazy");
+                imageObserver.unobserve(image);
+              }
+            });
+          });
+
+          lazyloadImages.forEach(function(image) {
+            imageObserver.observe(image);
+          });
+        } else {  
+          var lazyloadThrottleTimeout;
+          lazyloadImages = document.querySelectorAll(".lazy");
+          
+          function lazyload () {
+            if(lazyloadThrottleTimeout) {
+              clearTimeout(lazyloadThrottleTimeout);
+            }    
+
+            lazyloadThrottleTimeout = setTimeout(function() {
+              var scrollTop = window.pageYOffset;
+              lazyloadImages.forEach(function(img) {
+                  if(img.offsetTop < (window.innerHeight + scrollTop)) {
+                    img.src = img.dataset.src;
+                    img.classList.remove('lazy');
+                  }
+              });
+              if(lazyloadImages.length == 0) { 
+                document.removeEventListener("scroll", lazyload);
+                window.removeEventListener("resize", lazyload);
+                window.removeEventListener("orientationChange", lazyload);
+              }
+            }, 20);
+          }
+
+          document.addEventListener("scroll", lazyload);
+          window.addEventListener("resize", lazyload);
+          window.addEventListener("orientationChange", lazyload);
+        }
+  })
+
+
+
+
+    function setCookie(name, value, days){
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000)); 
+        var expires = "; expires=" + date.toGMTString();
+        document.cookie = name + "=" + value + expires;
+    }
+
+    function getParam(p){
+        var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+        return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+    }
+    
+    var gclid = getParam('gclid');
+    
+    if(gclid){
+        var gclsrc = getParam('gclsrc');
+        if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+            setCookie('gclid', gclid, 90);
+        }
+    }
+
+    var utm_campaign = getParam('utm_campaign');
+    var utm_content  = getParam('utm_content');
+    var utm_medium   = getParam('utm_medium');
+    var utm_source   = getParam('utm_source');
+    var utm_term     = getParam('utm_term');
+
+
+    // if(utm_campaign){ setCookie('utm_campaign', utm_campaign, 90); }
+    // if(utm_content){  setCookie('utm_content', utm_content, 90);   }
+    // if(utm_medium){   setCookie('utm_medium', utm_medium, 90);     }
+    // if(utm_source){   setCookie('utm_source', utm_source, 90);     }
+    // if(utm_term){     setCookie('utm_term', utm_term, 90);         }
+
+    if(gclid){        $.cookie('gclid', gclid,  { path: '/', expires: 90 });               }
+    if(utm_campaign){ $.cookie('utm_campaign', utm_campaign,  { path: '/', expires: 90 }); }
+    if(utm_content){  $.cookie('utm_content', utm_content,  { path: '/', expires: 90 });   }
+    if(utm_medium){   $.cookie('utm_medium', utm_medium,  { path: '/', expires: 90 });     }
+    if(utm_source){   $.cookie('utm_source', utm_source,  { path: '/', expires: 90 });     }
+    if(utm_term){     $.cookie('utm_term', utm_term,  { path: '/', expires: 90 });         }
+
+    //$.cookie("example", "foo", { expires: 7 }); // Sample 2
+
+    if($.cookie("gclid") != undefined){ 
+      $('input[name="gclid"]').val($.cookie("gclid")); 
+    }
+
+    if($.cookie("utm_campaign") != undefined){ 
+      $('input[name="utm_campaign"]').val($.cookie("utm_campaign")); 
+    }
+
+    if($.cookie("utm_content") != undefined){ 
+      $('input[name="utm_content"]').val($.cookie("utm_content")); 
+    }
+
+    if($.cookie("utm_medium") != undefined){ 
+      $('input[name="utm_medium"]').val($.cookie("utm_medium")); 
+    }
+
+    if($.cookie("utm_source") != undefined){ 
+      $('input[name="utm_source"]').val($.cookie("utm_source")); 
+    }
+
+    if($.cookie("utm_term") != undefined){ 
+      $('input[name="utm_term"]').val($.cookie("utm_term")); 
+    }
+
+    // if($.cookie("utm_medium") != undefined){ $('input[name="utm_medium"]').val($.cookie("utm_medium")); }
+    // if($.cookie("utm_source") != undefined){ $('input[name="utm_source"]').val($.cookie("utm_source")); }
+    // if($.cookie("utm_term") != undefined){ $('input[name="utm_term"]').val($.cookie("utm_term")); }
+    // if($.cookie("gclid") != undefined){ $('input[name="gclid"]').val($.cookie("utm_term")); }
+
+    // window.onload = function getGclid() {
+    
+    //   name = (name = new RegExp('(?:^|;\\s*)utm_campaign=([^;]*)').exec(document.cookie)) ? name.split(",")[1] : ""; 
+    //   $('input[name="utm_campaign"]').val(name);
+
+
+    //   name = (name = new RegExp('(?:^|;\\s*)utm_content=([^;]*)').exec(document.cookie)) ? name.split(",")[1] : ""; 
+    //   $('input[name="utm_content"]').val(name);
+
+
+    //   name = (name = new RegExp('(?:^|;\\s*)utm_medium=([^;]*)').exec(document.cookie)) ? name.split(",")[1] : ""; 
+    //   $('input[name="utm_medium"]').val(name);
+
+
+    //   name = (name = new RegExp('(?:^|;\\s*)utm_source=([^;]*)').exec(document.cookie)) ? name.split(",")[1] : ""; 
+    //   $('input[name="utm_source"]').val(name);
+
+
+    //   name = (name = new RegExp('(?:^|;\\s*)utm_term=([^;]*)').exec(document.cookie)) ? name.split(",")[1] : ""; 
+    //   $('input[name="utm_term"]').val(name);
+
+
+    //   name = (name = new RegExp('(?:^|;\\s*)gclid=([^;]*)').exec(document.cookie)) ? name.split(",")[1] : ""; 
+    //   $('input[name="gclid"]').val(name);
+
+      
+    // }
+  
+    _chosen = $(".chosen-select").length;
+
+    if(_chosen > 0){
+      $(".chosen-select").chosen();
+    }
+
+    
+        
+
+   $('.multiple-items').slick({
+      dots: true,
+      infinite: true,
+      slidesToShow: 3,
+      slidesToScroll: 3,
+      responsive: [
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            infinite: false,
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 2,
+            infinite: false,
+          }
+        }
+      ]
+    });
+
+
+  </script>
+
+  </body>
+</html>
+
+<!-- Page cached by LiteSpeed Cache 7.2 on 2025-11-17 21:15:39 -->

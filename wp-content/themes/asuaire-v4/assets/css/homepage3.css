@@ -1,0 +1,704 @@
+
+.wrapper5{
+    padding-top:4vw;
+    padding-bottom: 4vw; 
+    padding-right: 5.5vw;
+    padding-left: 5.5vw;   
+}
+
+.menu3{
+    background-color: #363B3F;
+    padding:17px 46px;
+}
+
+.logo3 img{
+max-height: 48px;
+}
+
+.logo3{
+display: inline-block;
+padding-right:18px;
+}
+
+.menu3 .menuItemWrapper{
+    display:inline-block;
+}
+.menu3 .menuItems{
+    color:white;
+    font-size: 20px;
+    padding:12px;
+}
+
+
+.menu3 .menuItems:hover{
+    color:#68BFDC;
+}
+
+.wrap-drop-right{
+    display:inline-block;
+    float:right;
+
+}
+
+.wrap-drop-right .header-dropdown{
+    border:1px solid white;
+    display:inline-block;
+    padding:0px 2px;
+    margin:3px;
+}
+
+.head-content3 .head-filter{
+
+    position: absolute;
+    z-index: 9;
+    top: 0px;
+}
+
+.banner3 img{
+    opacity:0.7;
+    /* background: transparent linear-gradient(90deg, #000000 0%, #787878 73%, #8B8B8B 100%) 0% 0% no-repeat padding-box; */
+}
+
+.banner3 {
+    background: transparent linear-gradient(90deg, #000000 0%, #787878 73%, #8B8B8B 100%) 0% 0% no-repeat padding-box;
+}
+
+.studentDest .col{
+    padding:15px!important;
+}
+
+.studentDest .card{
+    border:none;
+    box-shadow: 0px 2px 6px #0000001A;
+    border-radius: 2px;
+}
+
+.studentDest .card-body {
+    text-align: center;
+    padding: 16px;
+}
+
+.studentDest .card img{
+    height:300px;
+    object-fit:cover;
+}
+
+.catList3 .group-contries a:before {
+    content: 'â€¢';
+    padding: 7px;
+}
+
+.catList3 .group-contries a {
+    color: white;
+    font-size: 17px;
+}
+
+.advantages3 .col{
+    margin: 6px;
+    text-align: center;
+    border-bottom: 7px solid #68BFDC;
+    padding: 35px 20px 28px 20px;
+}
+
+
+.advantages3 .col img{
+    margin-bottom :20px;
+    height: 75px;
+
+}
+.impCard{
+    margin:22px;
+    background-color: white;
+    box-shadow: 0px 3px 6px #00000029;
+    border-right:7px solid #68BFDC;
+
+}
+
+.impCard .cardBody{
+    text-align: center;
+    padding:36px 30px;
+}
+
+.impCard .cardImg img{
+    height:200px;
+    /* height:100%; */
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.impCard .impCardHead{
+    color:#434343;
+    font-weight: 800;
+    font-size:18px;
+    margin-bottom:10px;
+}
+
+.impCard .impCardBody{
+    color:#434343;
+    font-size:15px;
+}
+.studentCustReview .impCard .impCardBody{
+    margin-bottom: 40px;
+
+}
+.studentTemplate .advantages2Section{
+
+    background-color:white!important;
+}
+
+.studentCustReview .scnd img{
+    height:313px;
+    width:100%;
+    object-fit: cover;
+}
+
+
+.studentCustReview .frst{
+    padding:40px 0px 40px 15px;
+}
+
+.studentCustReview .frst .frstInside{
+    background-color:white;
+    width:100%;    
+    height: 230px;
+    border-left: 7px solid #68BFDC;
+    padding:34px;
+    text-align: left;
+}
+
+
+.studentCustReview .frst .frstInside .title{
+    color:#414141;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom:10px;
+}
+.studentCustReview .frst .frstInside .subtitle{
+    color:#707070;
+    font-size:20px;
+    line-height: 1.3;
+}
+
+.studentCustReview #owl-demo4,#owl-demo5{
+    margin-top:40px;
+
+}
+
+.prev-arrow3 {
+    content: url(../images/studentPackage/angle-left.svg);
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 11px;
+    position: absolute;
+    top: 40%;
+    left:-10px;
+    box-shadow: 0px 2px 6px #0000001A;
+    border: 0.20000000298023224px solid #68BFDC;
+}
+
+.next-arrow3{
+    content: url(../images/studentPackage/angle-right.svg);
+    background-color: white;
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    padding:11px;
+    position:absolute;
+    top:40%;
+    right:-10px;
+    box-shadow: 0px 2px 6px #0000001A;
+    border: 0.20000000298023224px solid #68BFDC;
+}
+
+.prev-arrow3:hover,.next-arrow3:hover{
+    background-color: white;
+}
+
+#owl-demo4 .impCard{
+    margin:35px 10px;
+    border-right:none;
+
+}
+#owl-demo4 .impCard .cardImg img{
+    height:261px;
+}
+
+#owl-demo4 .impCard .cardBody{
+    text-align: left;
+    padding: 26px 26px;
+    font-size:16px;
+}
+
+.impCard .impCardHead{
+    color:#434343;
+    font-weight: 800;
+    font-size:18px;
+    margin-bottom:10px;
+}
+
+.impCard .impCardBody{
+    color:#434343;
+    font-size:15px;
+}
+a.reviw3Link {
+    position: absolute;
+    bottom: 26px;
+    right: 36px;
+    color: white;
+    background-color: #68BFDC;
+    width: 124px;
+    height: 31px;
+    text-align: center;
+    padding: 5px 0px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 2px;
+}
+
+.studentSchool .ccol{
+    text-align: center;
+}
+.studentSchool .ccol img{
+    width:65%;
+}
+
+.studentSchool .sectionHeading{
+    margin-bottom:25px;
+}
+
+.studentPlanYourGroup .scnd{
+    padding:20px 34px;
+}
+
+.studentPlanYourGroup .sectionHeading{
+    text-align: left;
+    font-weight: 500;
+}
+
+.field-half {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid #AAAAAA;
+    width: 19.03vw ; /*260px;*/
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    color: #9a9494;
+    font-size: 15px;
+}
+.field-full {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid #AAAAAA;
+    width: calc(38.06vw + 10px); /*530px;*/
+    padding: 5px;
+    margin: 5px;
+}
+
+.field-half:focus,.field-full:focus {
+    border-bottom: 2px solid yellow;
+}
+
+.field-half::placeholder,.field-full::placeholder{
+    color: #9a9494;
+    font-size: 15px;
+}
+.hiddenCf7{
+    display:none;
+}
+
+.submitPlanYourGroup {    
+    position: absolute;
+    bottom: 60px;
+    right: 85px;
+    color: white;
+    background-color: #68BFDC;
+    width: 124px;
+    height: 35px;
+    text-align: center;
+    padding: 5px 0px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 2px;
+    border: none;
+    font-size: 16px;
+}
+
+.studentPlanYourGroup .newsletter{
+    position: absolute;
+    bottom: 64px;
+    left: 23px;
+    width: 100%;
+    color: #464646;
+    font-size: 12px;
+}
+  .studentTour .col{
+    padding:7px;
+  }
+
+  .studentTour .card{
+    box-shadow: 0px 3px 6px #00000029;
+    border:none;
+  }
+
+  .studentTour.babyBoomerTour .titleCard img{
+      object-fit: cover;
+      height: 396px;
+      width: 100%;
+  }
+  .studentTour .titleCard .card-title{
+    text-align: left;
+    font-size:42px;
+    color: #414141;
+  }
+  .studentTour .titleCard .card-body{
+    padding:24px 40px;
+    height: 237px;
+    text-align: left;
+  }
+
+  .studentTour .titleCard .card-text{
+    font-size:18px;
+    color: #414141;
+    margin-top:10px;
+    margin-bottom:28px;
+}
+
+.gme{
+    position:absolute;
+    z-index:99;
+    height:31px!important;
+    width:63px!important;
+    right:0;
+
+}
+
+.studentTourLink, .studentTourLink:hover{
+    color: #68BFDC;
+    font-size:16px;
+    padding: 13px 30px;
+    border:1px solid #68BFDC;
+    border-radius: 24px;
+    height:42px;
+}
+
+.studentTour .cardtype1{
+    height:396px;
+}
+.studentTour img{
+    object-fit: cover;
+    height: 55%;
+    width: 100%;
+}
+.studentTour .card-title{
+  font-size:20px;
+  color: #434343;
+  text-align: center;
+}
+.studentTour .card-body{
+  padding:16px 14px;
+  text-align: center;
+}
+
+.studentTour .card-text{
+  font-size:14px;
+  color: #414141;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.viewMoreTours{
+    color:#464646;
+}
+
+.studentTour .cardtype2{
+    /* height: 223px; */
+}
+
+.studentTour .cardtype2 img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    position:absolute;
+}
+
+.studentTour .cardtype2 .card-body{
+    padding:32px 18px;
+    text-align: center;
+  }
+.cardtype2Wrap{
+    padding:7px;
+}
+
+.viewMoreTours::after {
+    top: 4px;
+    left: 8px;
+    display: inline-block;
+    padding: 5px;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    content: "";
+    background: url(../images/studentPackage/viewMore.svg) no-repeat 0 0;
+    background-size: 100%;
+    position: relative;
+}
+
+#owl-demo5 .cardtype1{
+ margin:20px;
+} 
+
+.breadcrumbCustom{
+    padding: 14px 84px;
+    background-color: white;
+    color:#9B9B9B;
+    font-weight: bold;
+}
+
+.breadcrumbCustom a{
+    color:#9B9B9B;
+    font-weight: normal;
+}
+
+.studentTour.babyBoomerTour{
+    /* height:900px; */
+}
+.studentTour.babyBoomerTour .titleCard{
+    height:100%
+}
+
+.studentTour.babyBoomerTour .titleCard img{
+    object-fit: cover;
+    height: 62%;
+    width: 100%;
+}
+
+.studentTour.babyBoomerTour .titleCard .card-body{
+  padding:24px 40px;
+  height: auto;
+  text-align: left;
+}
+.studentPlanYourGroup .frst img{
+    height: 40vw;
+    width:100%;
+    object-fit: cover;
+}
+.head-filter{
+    max-width:80%;
+}
+
+/* .arrowSpan{
+    background: #4679BD;
+    border-radius: 50%;
+    display: block;
+    height: 30px;
+    width: 30px;
+}
+.arrowSpan::after {
+    content:'\203A';   
+    display: block;
+    color: white;
+    font-weight: bold;
+    font-size: 20px; 
+    text-align: center;
+} */
+/*-====================================================================================*/
+@media only screen and (max-width:1200px) {
+    .studentTour img {
+        height: 50%;
+    }
+    .studentTour .card-title {
+        font-size: 18px;
+    }
+    .studentCustReview .frst .frstInside .title {
+        font-size: 25px;
+        margin-bottom: 8px;
+    }
+    .studentCustReview .frst .frstInside .subtitle {
+        font-size: 18px;
+    }
+    .studentCustReview .frst .frstInside {
+        height: 230px;
+        padding: 30px;
+    }
+    .studentPlanYourGroup .frst img{
+        height: 40vw;
+        width:100%;
+        object-fit: cover;
+        
+    }
+}
+/*-====================================================================================*/
+@media only screen and (max-width:900px) {
+
+
+    .banner3 img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+
+    .studentPlanYourGroup .frst img{
+        height: 400px;
+    }
+        .studentTour img {
+        height: 45%;
+    }
+    .studentTour .card-title {
+        font-size: 16px;
+    }
+    .studentCustReview .frst .frstInside .title {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+    .studentCustReview .frst .frstInside .subtitle {
+        font-size: 16px;
+    }
+    .studentCustReview .frst .frstInside {
+        height: 230px;
+        padding: 20px;
+    }
+}
+
+
+/*-====================================================================================*/
+@media only screen and (max-width:800px) {
+    .studentTour img {
+        height: 55%;
+    }
+    .studentTour .card-title {
+        font-size: 20px;
+    }
+    .studentSchool .ccol img {
+        width: 100%;
+        padding: 10px 10px;
+    }
+
+
+}
+
+/*-====================================================================================*/
+@media only screen and (max-width:600px) {
+
+    .head-filter {
+        max-width:100%;
+    }
+    .studentCustReview .frst .frstInside{
+        padding:34px;
+    }
+    
+    .studentCustReview .frst .frstInside .title{
+        font-size: 30px;
+        margin-bottom:10px;
+    }
+    .studentCustReview .frst .frstInside .subtitle{
+        font-size:20px;
+    }
+
+        .field-half,.field-full {
+            border-top: none;
+            border-right: none;
+            border-left: none;
+            border-bottom: 1px solid #AAAAAA;
+            width: 100%;
+            padding: 5px;
+            margin: 5px;
+            background-color: white;
+            color: #9a9494;
+            font-size: 15px;
+        }
+
+        .submitPlanYourGroup {    
+            position: absolute;
+            bottom: 20px;
+            left: 34%;
+            width: 124px;
+            height: 35px;
+            padding: 5px 0px;
+        }
+
+        .sectionHeading {
+            font-size: 24px;
+            margin:10px;
+            padding:0px;
+            text-align: left;
+        }
+
+
+        .impCard {
+            border-right: none;
+        }
+
+        .studentTour .titleCard .card-title {
+            font-size: 30px;    
+        }
+
+        .studentTour .titleCard .card-body {
+            height: 275px;
+            padding: 20px 20px;
+        }
+        .studentTour .titleCard img {
+            height: 300px;
+        }
+
+        .head-content3 .head-filter {
+            position: absolute;
+            z-index: 9;
+            top: 100px;
+        }
+
+        .impCard .cardImg img{
+            height:100%;
+        }
+
+        .studentTourLink, .studentTourLink:hover {
+            font-size: 16px;
+            padding: 10px 20px;
+            border-radius: 20px;
+            height: 35px;
+        }
+
+        .studentTour.babyBoomerTour {
+            height: auto;
+        }
+
+        .studentTour.babyBoomerTour .titleCard .card-body {
+            /* height: 250px; */
+        }
+        .studentTour.babyBoomerTour .titleCard {
+            height: auto;
+        }
+
+        .studentCustReview #owl-demo4, #owl-demo5 {
+            margin-top: 10px;
+        }
+
+        .breadcrumbCustom {
+            padding: 4px 8px;
+        }
+
+
+}
+
+/*-====================================================================================*/
+@media only screen and (max-width: 376px){
+    .head-filter {
+        margin-top: 10vh;
+    }
+    .content-mobile-menu{
+        padding:15px 0px;
+
+    }
+
+    .designMyTrip, .designMyTrip:hover {
+        /* margin-left: 60px; */
+        padding: 9px 7px;
+        font-size: 13px;
+        line-height: 3;
+        border-radius: 3px;
+    }
+}

@@ -1,0 +1,35 @@
+wp-content/themes/asuaire-v4/assets/js/custom.jsv=55
+        callback: function() {
+          gapi.client.init({
+              clientId: '710062963836-2auf3p1qqv82p3j8faj9qneaopa0smqu.apps.googleusercontent.com',
+              apiKey:   'AIzaSyAnLViX798gcm7A6jgLqnkhgrpGtS6i2Ns',
+              scope:    'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/plus.me'
+          }).then(
+
+
+
+
+            Publicly leaked secret
+AIzaSyAnLViX798gcm7A6jgLqnkhgrpGtS6i2Ns
+Remediation steps
+Follow the steps below before you close this alert.
+1 (1)Rotate the secret if it's in use to prevent breaking workflows.
+2 (2)Revoke this Google API Key through Google to prevent unauthorized access. Learn more about Google tokens.
+3 (3)Check security logs for potential breaches.
+4 (4)Close the alert as revoked.
+Detected in 2 locations
+wp-content/themes/asuaire-v4/assets/js/custom.jsv=55
+        callback: function() {
+          gapi.client.init({
+              clientId: '710062963836-2auf3p1qqv82p3j8faj9qneaopa0smqu.apps.googleusercontent.com',
+              apiKey:   'AIzaSyAnLViX798gcm7A6jgLqnkhgrpGtS6i2Ns',
+              scope:    'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/plus.me'
+          }).then(
+            
+
+first599c69b
+49 minutes ago
+wp-content/themes/asuaire-v4/assets/js/custom.js
+GitHub
+opened this alert
+2 minutes ago
